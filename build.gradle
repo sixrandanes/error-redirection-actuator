@@ -21,7 +21,7 @@ buildscript {
 
 
 	springBoot {
-		mainClass = "nc.gouv.dfpc.ocean.OceanApplication"
+		mainClass = "com.feature.Application"
 	}
 
 
