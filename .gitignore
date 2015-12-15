@@ -1,0 +1,8 @@
+.classpath
+.gradle
+.idea
+.settings
+bin/
+build
+spring-data-rest-feat.iml
+.project
