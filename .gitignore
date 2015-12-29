@@ -4,5 +4,5 @@
 .settings
 bin/
 build
-spring-data-rest-feat.iml
+error-redirection-actuator.iml
 .project
